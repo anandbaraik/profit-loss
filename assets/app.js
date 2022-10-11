@@ -46,3 +46,5 @@ function showMessage(msg, color) {
     outputBox.innerHTML = msg;
     outputBox.style.color = color;
 }
+
+//toFixed() : converts a number to string and rounds to a specified number of decimals
